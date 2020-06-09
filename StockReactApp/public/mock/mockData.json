@@ -1,0 +1,27 @@
+  [
+    {
+    "symbol":"HSBC",
+    "price":44,
+    "trend":"Down"
+  },{
+    "symbol":"SBI",
+    "price":44,
+    "trend":"up"
+  },{
+    "symbol":"AXIS",
+    "price":44,
+    "trend":"up"
+  },{
+    "symbol":"SGX",
+    "price":44,
+    "trend":"up"
+  },{
+    "symbol":"Adity Birla",
+    "price":44,
+    "trend":"up"
+  },{
+    "symbol":"AXIS Test",
+    "price":44,
+    "trend":"Down"
+  }
+  ]
